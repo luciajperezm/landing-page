@@ -1,0 +1,19 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "landing page for pizzeria",
+  "main": "index.js",
+  "scripts": {
+    "concat:css": "concat -o css/style.concat.css css/main.css css/icon.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciajperezm/landing-page.git"
+  },
+  "author": "luciajperezm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciajperezm/landing-page/issues"
+  },
+  "homepage": "https://github.com/luciajperezm/landing-page#readme"
+}
